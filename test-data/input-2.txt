@@ -1,0 +1,3 @@
+GT4500,1,0,0,0  # primary store has 1, secondary empty
+TORPEDO,SINGLE  # should fire primary store
+TORPEDO,SINGLE  # second shot, both stores empty
