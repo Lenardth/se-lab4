@@ -1,0 +1,2 @@
+GT4500,2,0,2,0  # initialize with 2 torpedoes in both stores, no failure
+TORPEDO,SINGLE  # fire SINGLE, should fire primary store
